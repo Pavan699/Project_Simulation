@@ -1,0 +1,3 @@
+# Project_Simulation
+
+To get the prediction on stock market using ML and pyspark....
